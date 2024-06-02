@@ -1,0 +1,14 @@
+h1 {
+color: orange;
+margin-left: 200px;
+}
+img {
+margin-left: 200px;
+} 
+h3 {
+margin-left: 200px;
+color: blue;
+font-family: Helvetica;
+}
+h2{color: red;}
+h1:Hover {color: yellow;}
